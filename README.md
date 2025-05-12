@@ -64,4 +64,5 @@ Backup of official election results from [the official COMELEC results website](
 
 
 
-Number of ERs in repository: 90040/93387 (96.41%).
+
+Number of ERs in repository: 90686/93387 (97.10%).
