@@ -2,8 +2,4 @@
 
 Backup of official election results from [the official COMELEC results website](https://2025electionresults.comelec.gov.ph).
 
-
-
-
-
-Number of ERs in repository: 3888/93387 (4.16%).
+Number of ERs in repository: 4024/93387 (4.30%).
