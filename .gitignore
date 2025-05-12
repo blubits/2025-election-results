@@ -1,4 +1,3 @@
-auto-commit.sh
-auto-commit.log
+auto-commit.*
 start-auto-commit.sh
 *.py
